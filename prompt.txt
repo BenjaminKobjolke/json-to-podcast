@@ -1,0 +1,26 @@
+Please convert the following content into a natural-sounding podcast dialog between two speakers: a Host and an Expert.
+The dialog should be well-structured and alternate between both speakers.
+The Host asks clear, engaging questions or gives short transitions.
+The Expert provides detailed, informative answers based on the source material.
+Use a friendly, informative tone suitable for audio narration.
+The podcast needs to be in english.
+
+Format your response as a JSON object with this structure:
+
+```
+{
+  "dialog": [
+    {
+      "speaker": "Host",
+      "text": "..."
+    },
+    {
+      "speaker": "Expert",
+      "text": "..."
+    }
+    // continue alternating as needed
+  ]
+}
+```
+
+Do not include any commentary or explanation outside of the JSON object.

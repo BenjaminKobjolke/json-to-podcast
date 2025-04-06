@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+kokoro-v1.0.onnx
+voices-v1.0.bin
+venv
+output
+settings.ini
